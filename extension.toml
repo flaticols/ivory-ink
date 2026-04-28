@@ -1,0 +1,7 @@
+id = "ivory-ink-theme"
+name = "Ivory Ink"
+schema_version = 1
+version = "0.1.0"
+authors = ["Denis Panfilov"]
+description = "A restrained light and dark Zed theme tuned for high-contrast displays."
+repository = "https://github.com/flaticols/ivory-ink"
