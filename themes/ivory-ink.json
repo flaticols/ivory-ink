@@ -12,7 +12,7 @@
           "#AA7377",
           "#7B8E99"
         ],
-        "background": "#FDFDFB",
+        "background": "#FFFFFF",
         "background.appearance": "opaque",
         "border": "#DDDCD8",
         "border.disabled": "#ECEBE7",
@@ -38,7 +38,7 @@
         "editor.document_highlight.read_background": "#F5F5F2",
         "editor.document_highlight.write_background": "#F4E6E8",
         "editor.foreground": "#101411",
-        "editor.gutter.background": "#FAFAF8",
+        "editor.gutter.background": "#FFFFFF",
         "editor.highlighted_line.background": "#F7F7F4",
         "editor.indent_guide": "#E6E6E2",
         "editor.indent_guide_active": "#D4D4CF",
@@ -83,7 +83,7 @@
         "modified.border": "#DCCB99",
         "pane.focused_border": "#9A938A",
         "pane_group.border": "#E4E3DF",
-        "panel.background": "#F7F7F4",
+        "panel.background": "#FFFFFF",
         "panel.focused_border": "#9A938A",
         "panel.indent_guide": "#E6E6E2",
         "panel.indent_guide_active": "#D4D4CF",
@@ -122,11 +122,11 @@
         "scrollbar.track.background": "#F8F8F5",
         "scrollbar.track.border": "#ECEBE7",
         "search.match_background": "#E9D8A8",
-        "status_bar.background": "#F7F7F4",
+        "status_bar.background": "#FFFFFF",
         "success": "#3E4741",
         "success.background": "#F7F7F4",
         "success.border": "#DDDCD8",
-        "surface.background": "#F7F7F4",
+        "surface.background": "#FFFFFF",
         "syntax": {
           "attribute": {
             "color": "#442071"
@@ -168,7 +168,7 @@
             "color": "#101411"
           },
           "keyword": {
-            "color": "#8A1F35",
+            "color": "#442071",
             "font_style": "italic",
             "font_weight": 600
           },
@@ -184,7 +184,7 @@
             "font_style": "italic"
           },
           "number": {
-            "color": "#8A1F35"
+            "color": "#9A5700"
           },
           "operator": {
             "color": "#101411"
@@ -212,7 +212,7 @@
             "color": "#0E5A35"
           },
           "string": {
-            "color": "#0E5A35"
+            "color": "#007A3D"
           },
           "string.escape": {
             "color": "#442071",
@@ -228,7 +228,7 @@
             "color": "#8A1F35"
           },
           "text.literal": {
-            "color": "#0E5A35",
+            "color": "#007A3D",
             "font_weight": 500
           },
           "title": {
@@ -249,8 +249,8 @@
           }
         },
         "tab.active_background": "#FFFFFF",
-        "tab.inactive_background": "#F7F7F4",
-        "tab_bar.background": "#F8F8F5",
+        "tab.inactive_background": "#FFFFFF",
+        "tab_bar.background": "#FFFFFF",
         "terminal.ansi.background": "#FFFFFF",
         "terminal.ansi.black": "#3F4741",
         "terminal.ansi.blue": "#536F78",
@@ -285,9 +285,9 @@
         "text.disabled": "#ADA59A",
         "text.muted": "#40443F",
         "text.placeholder": "#898176",
-        "title_bar.background": "#F7F7F4",
-        "title_bar.inactive_background": "#F5F5F2",
-        "toolbar.background": "#F7F7F4",
+        "title_bar.background": "#FFFFFF",
+        "title_bar.inactive_background": "#FFFFFF",
+        "toolbar.background": "#FFFFFF",
         "unreachable": "#74628B",
         "unreachable.background": "#EEE8F3",
         "unreachable.border": "#D4C9E1",
@@ -305,7 +305,7 @@
           "#B98F90",
           "#8499AC"
         ],
-        "background": "#121416",
+        "background": "#151719",
         "background.appearance": "opaque",
         "border": "#2A2C2B",
         "border.disabled": "#1D2020",
@@ -331,7 +331,7 @@
         "editor.document_highlight.read_background": "#252827",
         "editor.document_highlight.write_background": "#302829",
         "editor.foreground": "#D8D2C6",
-        "editor.gutter.background": "#131516",
+        "editor.gutter.background": "#151719",
         "editor.highlighted_line.background": "#181B1D",
         "editor.indent_guide": "#282D2D",
         "editor.indent_guide_active": "#313B3A",
@@ -344,7 +344,7 @@
         "element.disabled": "#171A1B",
         "element.hover": "#202424",
         "element.selected": "#1B1E20",
-        "elevated_surface.background": "#1D2021",
+        "elevated_surface.background": "#151719",
         "error": "#B98F90",
         "error.background": "#292122",
         "error.border": "#5A3F43",
@@ -376,7 +376,7 @@
         "modified.border": "#5C4F33",
         "pane.focused_border": "#8F8A82",
         "pane_group.border": "#202323",
-        "panel.background": "#171A1B",
+        "panel.background": "#151719",
         "panel.focused_border": "#8F8A82",
         "panel.indent_guide": "#282D2D",
         "panel.indent_guide_active": "#313B3A",
@@ -415,11 +415,11 @@
         "scrollbar.track.background": "#131516",
         "scrollbar.track.border": "#1B1E20",
         "search.match_background": "#453B25",
-        "status_bar.background": "#171A1B",
+        "status_bar.background": "#151719",
         "success": "#A8ADA7",
         "success.background": "#1D2021",
         "success.border": "#3A3A36",
-        "surface.background": "#1A1D1E",
+        "surface.background": "#151719",
         "syntax": {
           "attribute": {
             "color": "#B6A3C0"
@@ -541,9 +541,9 @@
             "color": "#B6A3C0"
           }
         },
-        "tab.active_background": "#1C1F20",
+        "tab.active_background": "#151719",
         "tab.inactive_background": "#151719",
-        "tab_bar.background": "#161819",
+        "tab_bar.background": "#151719",
         "terminal.ansi.background": "#151719",
         "terminal.ansi.black": "#4E5352",
         "terminal.ansi.blue": "#7E95A4",
@@ -578,9 +578,9 @@
         "text.disabled": "#5B605A",
         "text.muted": "#858A84",
         "text.placeholder": "#696E68",
-        "title_bar.background": "#171A1B",
-        "title_bar.inactive_background": "#131516",
-        "toolbar.background": "#171A1B",
+        "title_bar.background": "#151719",
+        "title_bar.inactive_background": "#151719",
+        "toolbar.background": "#151719",
         "unreachable": "#A995B7",
         "unreachable.background": "#27232B",
         "unreachable.border": "#4B4256",
