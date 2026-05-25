@@ -2,8 +2,8 @@
 
 This folder contains Kitty ports of the Ivory Ink themes:
 
-- `ivory-ink-light.conf` — near-white light theme
-- `ivory-ink-dark.conf` — soft dark theme
+- `ivory-ink-light.conf` — high-contrast near-white light theme
+- `ivory-ink-dark.conf` — high-contrast dark theme
 - `light-theme.auto.conf` — Kitty auto light-mode file
 - `dark-theme.auto.conf` — Kitty auto dark-mode file
 - `no-preference-theme.auto.conf` — Kitty auto no-preference file, set to light mode

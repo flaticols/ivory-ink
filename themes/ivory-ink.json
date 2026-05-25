@@ -136,12 +136,10 @@
             "font_weight": 600
           },
           "comment": {
-            "color": "#485148",
-            "font_style": "italic"
+            "color": "#485148"
           },
           "comment.doc": {
-            "color": "#3F4B42",
-            "font_style": "italic"
+            "color": "#3F4B42"
           },
           "constant": {
             "color": "#8A1F35"
@@ -151,9 +149,6 @@
           },
           "embedded": {
             "color": "#101411"
-          },
-          "emphasis": {
-            "font_style": "italic"
           },
           "emphasis.strong": {
             "font_weight": 700
@@ -169,7 +164,6 @@
           },
           "keyword": {
             "color": "#442071",
-            "font_style": "italic",
             "font_weight": 600
           },
           "label": {
@@ -180,8 +174,7 @@
             "font_weight": 600
           },
           "link_uri": {
-            "color": "#0E5A35",
-            "font_style": "italic"
+            "color": "#0E5A35"
           },
           "number": {
             "color": "#9A5700"
@@ -429,12 +422,10 @@
             "font_weight": 500
           },
           "comment": {
-            "color": "#858D86",
-            "font_style": "italic"
+            "color": "#858D86"
           },
           "comment.doc": {
-            "color": "#9AA29A",
-            "font_style": "italic"
+            "color": "#9AA29A"
           },
           "constant": {
             "color": "#CFA1A1"
@@ -444,9 +435,6 @@
           },
           "embedded": {
             "color": "#D8D2C6"
-          },
-          "emphasis": {
-            "font_style": "italic"
           },
           "emphasis.strong": {
             "font_weight": 700
@@ -462,7 +450,6 @@
           },
           "keyword": {
             "color": "#C2A6AD",
-            "font_style": "italic",
             "font_weight": 500
           },
           "label": {
@@ -473,8 +460,7 @@
             "font_weight": 500
           },
           "link_uri": {
-            "color": "#A9B6AA",
-            "font_style": "italic"
+            "color": "#A9B6AA"
           },
           "number": {
             "color": "#D0A889"
