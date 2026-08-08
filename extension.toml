@@ -1,7 +1,7 @@
 id = "ivory-ink-theme"
 name = "Ivory Ink"
 schema_version = 1
-version = "0.2.0"
+version = "0.3.0"
 authors = ["Denis Panfilov"]
 description = "A layered light and dark Zed theme with crisp semantic color and distinctive graph accents."
 repository = "https://github.com/flaticols/ivory-ink"

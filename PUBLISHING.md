@@ -4,7 +4,7 @@ Current extension metadata:
 
 - Repo: `https://github.com/flaticols/ivory-ink`
 - Extension ID: `ivory-ink-theme`
-- Version: `0.2.0`
+- Version: `0.3.0`
 
 Zed currently publishes extensions through a PR to `zed-industries/extensions`.
 
@@ -24,7 +24,7 @@ Add this to the top-level `extensions.toml` in `zed-industries/extensions`:
 ```toml
 [ivory-ink-theme]
 submodule = "extensions/ivory-ink-theme"
-version = "0.2.0"
+version = "0.3.0"
 ```
 
 ## 3. Sort registry files
