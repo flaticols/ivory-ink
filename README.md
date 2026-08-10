@@ -14,6 +14,7 @@ Both variants are generated from one OKLCH specification, so they are recognizab
 - **Nine role hues** — red, orange, amber, green, jade, cyan, azure, violet, magenta — at fixed hue angles. Every syntax role maps to the same hue in light and dark; only lightness and chroma change. Concrete types read amber; interfaces, type parameters, labels, and lifetimes read jade.
 - **Equal perceptual lightness.** Code colors sit in a tight L\* band (light ~47–50, dark ~79), so no token shouts louder than its neighbours. Comments, doc comments, and inline predictions are deliberately held below that band while still clearing 4.5:1.
 - **Warm ivory surfaces, blue-black ink.** Shell, panel, and editor share one warm neutral ramp; text carries a faint cool cast.
+- **Italic is keyword-only.** Keywords, keyword modifiers, and control-flow operators are the only italic tokens. Comments, constants, type parameters, and markup stay upright, so the cursive means one thing.
 - **Contrast comes from lightness, not saturation.** Chroma is capped below the sRGB gamut edge, so the theme stays composed on wide-gamut Display P3 panels, where Zed's unmanaged Metal layer drives sRGB values straight into P3 primaries.
 
 ### Editor highlight ladder

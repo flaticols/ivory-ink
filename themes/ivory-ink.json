@@ -166,23 +166,18 @@
             "color": "#1C6670"
           },
           "comment": {
-            "font_style": "italic",
             "color": "#6B6964"
           },
           "comment.doc": {
-            "font_style": "italic",
             "color": "#506B55"
           },
           "comment.documentation": {
-            "font_style": "italic",
             "color": "#506B55"
           },
           "constant": {
-            "font_style": "italic",
             "color": "#8A327D"
           },
           "constant.builtin": {
-            "font_style": "italic",
             "font_weight": 600,
             "color": "#8A327D"
           },
@@ -196,7 +191,6 @@
             "color": "#1F2123"
           },
           "emphasis": {
-            "font_style": "italic",
             "color": "#1F2123"
           },
           "emphasis.strong": {
@@ -244,7 +238,6 @@
             "color": "#1C695B"
           },
           "lifetime": {
-            "font_style": "italic",
             "color": "#1C695B"
           },
           "link_text": {
@@ -275,7 +268,6 @@
             "color": "#1C6670"
           },
           "predictive": {
-            "font_style": "italic",
             "color": "#77746F"
           },
           "preproc": {
@@ -388,11 +380,9 @@
             "color": "#1C695B"
           },
           "type.parameter": {
-            "font_style": "italic",
             "color": "#1C695B"
           },
           "type.parameter.definition": {
-            "font_style": "italic",
             "font_weight": 600,
             "color": "#1C695B"
           },
@@ -416,14 +406,12 @@
             "color": "#1F2123"
           },
           "variable.builtin": {
-            "font_style": "italic",
             "color": "#9E2B36"
           },
           "variable.parameter": {
             "color": "#3C3A36"
           },
           "variable.special": {
-            "font_style": "italic",
             "color": "#9E2B36"
           },
           "variant": {
@@ -647,23 +635,18 @@
             "color": "#5BCDDE"
           },
           "comment": {
-            "font_style": "italic",
             "color": "#8D9196"
           },
           "comment.doc": {
-            "font_style": "italic",
             "color": "#869D8A"
           },
           "comment.documentation": {
-            "font_style": "italic",
             "color": "#869D8A"
           },
           "constant": {
-            "font_style": "italic",
             "color": "#E4A1D6"
           },
           "constant.builtin": {
-            "font_style": "italic",
             "font_weight": 600,
             "color": "#E4A1D6"
           },
@@ -677,7 +660,6 @@
             "color": "#D7D9DC"
           },
           "emphasis": {
-            "font_style": "italic",
             "color": "#D7D9DC"
           },
           "emphasis.strong": {
@@ -725,7 +707,6 @@
             "color": "#65D1BA"
           },
           "lifetime": {
-            "font_style": "italic",
             "color": "#65D1BA"
           },
           "link_text": {
@@ -756,7 +737,6 @@
             "color": "#5BCDDE"
           },
           "predictive": {
-            "font_style": "italic",
             "color": "#84888C"
           },
           "preproc": {
@@ -869,11 +849,9 @@
             "color": "#65D1BA"
           },
           "type.parameter": {
-            "font_style": "italic",
             "color": "#65D1BA"
           },
           "type.parameter.definition": {
-            "font_style": "italic",
             "font_weight": 600,
             "color": "#65D1BA"
           },
@@ -897,14 +875,12 @@
             "color": "#D7D9DC"
           },
           "variable.builtin": {
-            "font_style": "italic",
             "color": "#F79F9F"
           },
           "variable.parameter": {
             "color": "#BFC3C8"
           },
           "variable.special": {
-            "font_style": "italic",
             "color": "#F79F9F"
           },
           "variant": {
