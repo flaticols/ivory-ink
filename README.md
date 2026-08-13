@@ -5,7 +5,7 @@ Ivory Ink is a Zed-native theme with paired light and dark variants:
 - `Ivory Ink Light`
 - `Ivory Ink Dark`
 
-Its unified warm off-white canvas keeps the shell, editor, panels, and terminal visually continuous, while controls and elevated surfaces retain subtle separation. A cool blue interaction color anchors focus and selection, while an original semantic palette separates keywords, functions, types, macros, strings, constants, and control flow.
+Its unified warm off-white canvas keeps the shell, editor, panels, terminal, command palette, and menus visually continuous, while controls and borders retain subtle separation. A cool blue interaction color anchors focus and selection, while an original semantic palette separates keywords, functions, types, macros, strings, constants, and control flow.
 
 ## Palette system
 
@@ -13,7 +13,7 @@ Both variants are generated from one OKLCH specification, so they are recognizab
 
 - **Semantic role hues** — red, orange, amber, green, jade, cyan, azure, indigo, violet, and magenta. In the light variant, class and struct names use indigo for strong separation from the soft-white background; enums remain amber, while interfaces, type parameters, labels, and lifetimes read jade.
 - **Balanced perceptual lightness.** Most code colors sit in a tight lightness band. Amber and orange are deliberately darker in the light variant to remain distinct on warm or Night Shift-adjusted displays, and restrained in the dark variant to avoid glare. Comments, doc comments, and inline predictions remain quieter while still clearing 4.5:1.
-- **Unified warm off-white canvas, blue-black ink.** The light shell, panels, editor, tabs, and terminal share one continuous subtly warm surface; controls and elevated elements provide the depth.
+- **Unified warm off-white canvas, blue-black ink.** The light shell, panels, editor, tabs, terminal, command palette, and menus share one continuous subtly warm surface; controls, borders, and selection states provide the depth.
 - **Italic is semantic, not structural.** Keywords, modifiers, and control-flow syntax stay upright. Italic or script faces are reserved for attributes, decorators, function annotations, and genuine markup emphasis, so cursive signals metadata or authored emphasis rather than ordinary grammar.
 - **Contrast comes from lightness, not saturation.** Chroma is capped below the sRGB gamut edge, so the theme stays composed on wide-gamut Display P3 panels, where Zed's unmanaged Metal layer drives sRGB values straight into P3 primaries.
 
